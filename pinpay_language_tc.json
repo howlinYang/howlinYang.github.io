@@ -14,5 +14,42 @@
     "create_wallet/placeholder_2": "",
     "create_wallet/btn": "下一步"
   },
-  "": ""
+  "dont_screenshot": {
+    "dont_screenshot/tittle": "請勿截圖",
+    "dont_screenshot/btn": "我暸解了",
+    "dont_screenshot/content": "一旦助記詞被竊取，任何人都能盜走您的數位資產！請將助記詞用筆抄下，並妥善保管。"
+  },
+  "mnemonic_1": {
+    "mnemonic_1/tittle": "創建公鏈錢包",
+    "mnemonic_1/btn": "下一步",
+    "mnemonic_1/subtittle": "備份助記詞",
+    "mnemonic_1/info": "這12個字面的詞彙用於恢復你的公鏈錢包，在紙上正確記下並保存在安全的地方"
+  },
+  "mnemonic_2": {
+    "mnemonic_2/tittle": "創建公鏈錢包",
+    "mnemonic_2/subtittle": "確認您的助記詞",
+    "mnemonic_2/support": "請按順序排列助記詞，完成請按下「確認」",
+    "mnemonic_2/btn": "確認"
+  },
+  "readytogo": {
+    "readytogo/subtittle": "你的錢包準備好了！",
+    "readytogo/support": "進一步為您的錢包安全設定登入許可",
+    "readytogo/btn_1": "設定安全性",
+    "readytogo/btn_2": "略過"
+  },
+  "import_wallet": {},
+  "import_mnemonic_1": {
+    "": ""
+  },
+  "import_keystore_txt": {
+    "import_keystore_txt/tittle": "輸入Keystore",
+    "import_keystore_txt/sub_1": "Keystore 文檔",
+    "import_keystore_txt/sub_2": "QR Code",
+    "import_keystore_txt/info": "請將PingPay匯出的Keystore文件複製貼上，或者掃描Keystore生成的QR-code。",
+    "import_keystore_txt/label": "Keystore 內容",
+    "import_keystore_txt/placeholder": "輸入或貼上您的 Keystore",
+    "import_keystore_txt/btn": "確認"
+  },
+  "import keystore_qr_1": {},
+  "import keystore_qr_2": {}
 }
