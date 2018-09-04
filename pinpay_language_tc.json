@@ -1,0 +1,18 @@
+{
+  "welcome": {
+    "welcome/content": "Welcome！",
+    "welcome/btn_1": "創建公鏈錢包",
+    "welcome/btn_2": "恢復公鏈錢包",
+    "welcome/privacy": "隱私權政策與服務條款"
+  },
+  "create_wallet": {
+    "create_wallet/tittle": "創建公鏈錢包",
+    "create_wallet/info": "任何交易行為都將受到自訂的密碼保護，請妥善保管密碼並請勿將您的密碼提供給他人，PingPay 不儲存密碼，也無法幫您找回。",
+    "create_wallet/label_1": "設定Keystore 密碼",
+    "create_wallet/label_2": "再次確認密碼",
+    "create_wallet/placeholder_1": "8~20個字元，至少各一個英文數字",
+    "create_wallet/placeholder_2": "",
+    "create_wallet/btn": "下一步"
+  },
+  "": ""
+}
